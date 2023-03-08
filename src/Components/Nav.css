@@ -1,0 +1,13 @@
+.nav{
+    padding: 1rem;
+    background-color: rgb(35, 124, 157);
+    color: white;
+    top: 0;
+    left: 0;
+    width: 100%;
+    position: sticky;
+}
+
+.nav h2{
+    font-weight: normal;
+}
